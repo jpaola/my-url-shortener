@@ -29,6 +29,7 @@ node my-url-shortener.js
 ## Endpoints
 
 GET /api/v1/:{id}
+
 POST /api/v1/shorten
 
 ## Making API calls
