@@ -1,0 +1,10 @@
+{
+    "name": "my-url-shortener",
+    "version": "1.0.0",
+    "main": "my-url-shortener.js",
+    "type": "module",
+    "dependencies": {
+        "base-x": "^4.0.0",
+        "uuid": "^8.3.2"
+    }
+}
