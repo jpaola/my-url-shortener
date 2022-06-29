@@ -28,9 +28,12 @@ node my-url-shortener.js
 
 ## Endpoints
 
+```bash
 GET /api/v1/:{id}
-
+```
+```bash
 POST /api/v1/shorten
+```
 
 ## Making API calls
 While running the server, you can send requests using curl.
