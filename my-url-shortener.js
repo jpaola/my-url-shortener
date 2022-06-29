@@ -120,7 +120,7 @@ function generateId() {
 /**
  * Validate URL.
  * @param {} url String
- * @returns True if the URL is a valida URL, otherwise returns False
+ * @returns True if the URL is a valid URL, otherwise returns False
  */
 function isValidURL(url) {
     let pattern = new RegExp('^(https?:\\/\\/)?' + // protocol
